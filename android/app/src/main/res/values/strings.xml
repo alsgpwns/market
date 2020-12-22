@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Market</string>
+    <string name="kakao_app_key">8b23610f040f9696b6cd7e523188ba14</string>
+    <string name="server_client_id">YOUR_SERVER_CLIENT_ID</string>
+    <string name="facebook_app_id">187301376443584</string>
+    <string name="fb_login_protocol_scheme">fb187301376443584</string>
 </resources>
